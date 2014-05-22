@@ -24,24 +24,23 @@ comments: true
 <figure class="half">
 	<img src="/images/201010-life1/4.JPG">
     <img src="/images/201010-life1/5.JPG">
-    <figcaption></figcaption>
 </figure>
-
+<br/>
+<br/>
 
 <figure class="half">
 	<img src="/images/201010-life1/6.JPG">
     <img src="/images/201010-life1/8.JPG">
-    <figcaption></figcaption>
 </figure>
-
+<br/>
+<br/>
 <figure class="half">
 	<img src="/images/201010-life1/7.JPG">
     <img src="/images/201010-life1/11.JPG">
-    <figcaption></figcaption>
 </figure>
-
+<br/>
+<br/>
 <figure class="half">
 	<img src="/images/201010-life1/9.JPG">
     <img src="/images/201010-life1/10.JPG">
-    <figcaption></figcaption>
 </figure>
