@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hey, dude！"
+title: "Hey, dude ！"
 description: ""
 tags: [2010,buddy]
 comments: true
