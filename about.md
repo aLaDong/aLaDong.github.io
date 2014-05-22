@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About
+title: Preface
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Jekyll, theme, responsive]
 modified: 
@@ -11,3 +11,6 @@ image:
   credit: 小草                      
   
 ---
+
+**Tags on Lixian:**  `实干家`, `效率帝`, `Problem Solver`, `小猪`, `萌`, `Smart Boy`, `Trouble Maker`, `可爱`, `Customer Rights Fighter`
+ 
